@@ -1,0 +1,85 @@
+
+    {
+    "items":[
+        {
+            "sys":{"id":"1"},
+            "jewelry":{
+                "title":"Big silver jewelry set",
+                "price":13000.00,
+                "image":{"jewelry":{"file":{"url": "ITMABIDimages/IMG-20230530-WA0008.jpg"}}}
+            }
+        },
+        {
+            "sys":{"id":"2"},
+            "jewelry":{
+                "title":"Red marble gold set",
+                "price":14500.00,
+                "image":{"jewelry":{"file":{"url": "ITMABIDimages/IMG-20230530-WA0014.jpg"}}}
+            }
+        },
+        {
+            "sys":{"id":"3"},
+            "jewelry":{
+                "title":"Spiral gold and silver set",
+                "price":10700.00,
+                "image":{"jewelry":{"file":{"url": "ITMABIDimages/IMG-20230530-WA0044.jpg"}}}
+            }
+        },
+        {
+            "sys":{"id":"4"},
+            "jewelry":{
+                "title":"Supreme net set",
+                "price":12500.00,
+                "image":{"jewelry":{"file":{"url": "ITMABIDimages/IMG-20230530-WA0047.jpg"}}}
+            }
+        },
+        {
+            "sys":{"id":"5"},
+            "jewelry":{
+                "title":"Special MJ",
+                "price":16500.00,
+                "image":{"jewelry":{"file":{"url": "ITMABIDimages/IMG-20230530-WA0050.jpg"}}}
+            }
+        },
+        {
+            "sys":{"id":"6"},
+            "jewelry":{
+                "title":"Silver Roller bunch",
+                "price":18000.00,
+                "image":{"jewelry":{"file":{"url": "ITMABIDimages/IMG-20230530-WA0048.jpg"}}}
+            }
+        },
+        {
+            "sys":{"id":"7"},
+            "jewelry":{
+                "title":"Elegant capture",
+                "price":19500.00,
+                "image":{"jewelry":{"file":{"url": "ITMABIDimages/IMG-20230530-WA0042.jpg"}}}
+            }
+        },
+        {
+            "sys":{"id":"8"},
+            "jewelry":{
+                "title":"Rose Petal",
+                "price":13500.00,
+                "image":{"jewelry":{"file":{"url": "ITMABIDimages/IMG-20230530-WA0038.jpg"}}}
+            }
+        },
+        {
+            "sys":{"id":"9"},
+            "jewelry":{
+                "title":"Dorchmund 100",
+                "price":20000.00,
+                "image":{"jewelry":{"file":{"url": "ITMABIDimages/IMG-20230530-WA0036.jpg"}}}
+            }
+        },
+        {
+            "sys":{"id":"10"},
+            "jewelry":{
+                "title":"Princess galore",
+                "price":17200.00,
+                "image":{"jewelry":{"file":{"url": "ITMABIDimages/IMG-20230530-WA0033.jpg"}}}
+            }
+        }
+    ]
+}
